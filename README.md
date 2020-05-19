@@ -10,6 +10,8 @@ Requires python >= 3
 
 `git clone https://github.com/davidluque1/DRF-SIMPLE-CRUD.git`
 
+`cd DRF-SIMPLE-CRUD`
+
 `python3 -m venv venv`
 
 `. venv bin/activate`
