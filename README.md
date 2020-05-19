@@ -14,6 +14,7 @@ Go to https://miniwebtool.com/django-secret-key-generator/
 
 Generate a key. Then go to templateProject/templateProject/settings.py and set the SECRET_KEY variable.
 
+Now, run:
 
 `python manage.py migrate --run-syncdb`
 
@@ -21,7 +22,9 @@ Generate a key. Then go to templateProject/templateProject/settings.py and set t
 
 `python manage.py runserver`
 
+
 The server should start, and you should be able to make any of the requests listed in the Endpoints section below:
+
 
 <h1> Endpoints </h1>
 
