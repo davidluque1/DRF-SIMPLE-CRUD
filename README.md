@@ -1,6 +1,6 @@
 <h1> Description </h1>
 
-Very simple DRF CRUD template with a very simple API.
+Very simple DRF CRUD template with a very simple API. Creates and runs a server with Django and Django REST framework.
 
 <h1> Installation </h1>
 
