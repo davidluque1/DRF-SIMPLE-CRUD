@@ -9,8 +9,11 @@ Very simple DRF CRUD template with a very simple API. Creates and runs a server 
 Requires python >= 3
 
 `git clone https://github.com/davidluque1/DRF-SIMPLE-CRUD.git`
+
 `python3 -m venv venv`
+
 `. venv bin/activate`
+
 `pip install -r requirements.txt`
 
 Go to https://miniwebtool.com/django-secret-key-generator/
