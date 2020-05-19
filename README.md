@@ -24,6 +24,8 @@ Generate a key. Then go to templateProject/templateProject/settings.py and set t
 
 Now, run:
 
+`cd templateProject`
+
 `python manage.py migrate --run-syncdb`
 
 `python manage.py createsuperuser`
