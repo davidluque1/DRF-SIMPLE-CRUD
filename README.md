@@ -2,7 +2,7 @@
 
 Uses Django 2.2.10 and Django REST Framework 3.11.0
 
-Very simple DRF CRUD template with a very simple API. Creates and runs a server with Django and Django REST framework.
+Very simple DRF CRUD template with a very simple example API. Creates and runs a server with Django and Django REST framework.
 
 <h1> Installation </h1>
 
