@@ -6,14 +6,18 @@ Very simple DRF CRUD template for a very simple API.
 
 Requires python >= 3
 
-git clone https://github.com/davidluque1/DRF-SIMPLE-CRUD
+`git clone https://github.com/davidluque1/DRF-SIMPLE-CRUD.git`
 
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 Go to https://miniwebtool.com/django-secret-key-generator/
 
 Generate a key. Then go to templateProject/templateProject/settings.py and set the SECRET_KEY variable.
 
+`python manage.py createsuperuser`
+`python manage.py runserver`
+
+The server should start, and you should be able to make any of the requests listed below:
 
 <h1> Endpoints </h1>
 
